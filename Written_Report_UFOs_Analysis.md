@@ -31,6 +31,14 @@ On the other side, some recomendations for improving this website include:
     1. Have more data with more information including how many people were at the site 
     2. Add another filter to find the sitings by lengt and last but not least have a site that would be constantly updating the data adding new sitings to the page.
 
+Also, another drawback of this design of the website specifically is the difficulty for the user to know what parameter to use for the filtering. For example to pick a city, the user would have to go through the table a find the city desired for the analysis.
+
+In the same way, another drawback in the webpage is the filter can only look at one id at a time. For example you cannot look at the state of California and Kentucky at the same time.
+
+A way to address this would be to present drop-down lists including all filter values in place of the input fields. Each list would need to update after a parameter is selected in any filter. For this, also, a drop down menu is ideal, since it gives the opportunitty for the user to know where they could pick multiple criteria would eliminating the drawback mentioned before. Additionally, the ability to sort the table by more recent or least recent would improve user experience.
+
+Finally, another recomendation included the addition of a button to clear the filters. The button would be located below the last filter, making easy the customer experience. 
+
 ### Conclusion 
 
 In conclusion, JavaScript provide speed and simplicity in the data managment, and making the webpage more dynamic and add special effects on pages like rollover, roll out and many types of graphics. Datas as UFOs, could be analyzed deeply by allowing users to filter for multiple criteria at the same time using JavaScript and HTML adding table filters for the city, state, country, and shape.
